@@ -2,75 +2,75 @@
   "robots": [
     {
       "id": 1,
-      "name": "Rando Robo 1",
+      "name": "T-1000",
       "username": "robo-1",
-      "email": "robo1@robocorp.bot"
+      "email": "t10001@sky.net"
     },
     {
       "id": 2,
-      "name": "Rando Robo 2",
+      "name": "Sonny",
       "username": "robo-2",
-      "email": "robo2@robocorp.bot"
+      "email": "sonny@iro.bot"
     },
     {
       "id": 3,
-      "name": "Rando Robo 3",
+      "name": "Gerty",
       "username": "robo-3",
-      "email": "robo3@robocorp.bot"
+      "email": "gerty@sarang.lunar"
     },
     {
       "id": 4,
-      "name": "Rando Robo 4",
+      "name": "WALL-E",
       "username": "robo-4",
-      "email": "robo4@robocorp.bot"
+      "email": "walle@pix.ar"
     },
     {
       "id": 5,
-      "name": "Rando Robo 5",
+      "name": "AWESOM-O 4000",
       "username": "robo-5",
-      "email": "robo5@robocorp.bot"
+      "email": "awesomo4000@southparkrobotics.corp"
     },
     {
       "id": 6,
-      "name": "Rando Robo 6",
+      "name": "Robby the Robot",
       "username": "robo-6",
-      "email": "robo6@robocorp.bot"
+      "email": "robby@forbidden.planet"
     },
     {
       "id": 7,
-      "name": "Rando Robo 7",
+      "name": "Gort",
       "username": "robo-7",
-      "email": "robo7@robocorp.bot"
+      "email": "gort@still.earth"
     },
     {
       "id": 8,
-      "name": "Rando Robo 8",
+      "name": "HAL 9000",
       "username": "robo-8",
-      "email": "robo8@robocorp.bot"
+      "email": "hal9000@discovery.one"
     },
     {
       "id": 9,
-      "name": "Rando Robo 9",
+      "name": "Bender",
       "username": "robo-9",
-      "email": "robo9@robocorp.bot"
+      "email": "bender.bending.rodriquez@planetexpress.inc"
     },
     {
       "id": 10,
-      "name": "Rando Robo 10",
+      "name": "Marvin the Paranoid Android",
       "username": "robo-10",
-      "email": "robo10@robocorp.bot"
+      "email": "marvin0@siriuscybernetics.corp"
     },
     {
       "id": 11,
-      "name": "Rando Robo 11",
+      "name": "R2-D2",
       "username": "robo-11",
-      "email": "robo11@robocorp.bot"
+      "email": "r2d2@rebelalli.ance"
     },
     {
       "id": 12,
-      "name": "Rando Robo 12",
+      "name": "C-3PO",
       "username": "robo-12",
-      "email": "robo12@robocorp.bot"
+      "email": "c3po@skywalkercustoms.tat"
     }
   ]
 }
