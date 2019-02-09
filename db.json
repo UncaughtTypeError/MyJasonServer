@@ -1,0 +1,74 @@
+export const robots = [
+  {
+    id: 1,
+    name: `Rando Robo 1`,
+    username: `robo-1`,
+    email: `robo1@robocorp.bot`
+  },
+  {
+    id: 2,
+    name: `Rando Robo 2`,
+    username: `robo-2`,
+    email: `robo2@robocorp.bot`
+  },
+  {
+    id: 3,
+    name: `Rando Robo 3`,
+    username: `robo-3`,
+    email: `robo3@robocorp.bot`
+  },
+  {
+    id: 4,
+    name: `Rando Robo 4`,
+    username: `robo-4`,
+    email: `robo4@robocorp.bot`
+  },
+  {
+    id: 5,
+    name: `Rando Robo 5`,
+    username: `robo-5`,
+    email: `robo5@robocorp.bot`
+  },
+  {
+    id: 6,
+    name: `Rando Robo 6`,
+    username: `robo-6`,
+    email: `robo6@robocorp.bot`
+  },
+  {
+    id: 7,
+    name: `Rando Robo 7`,
+    username: `robo-7`,
+    email: `robo7@robocorp.bot`
+  },
+  {
+    id: 8,
+    name: `Rando Robo 8`,
+    username: `robo-8`,
+    email: `robo8@robocorp.bot`
+  },
+  {
+    id: 9,
+    name: `Rando Robo 9`,
+    username: `robo-9`,
+    email: `robo9@robocorp.bot`
+  },
+  {
+    id: 10,
+    name: `Rando Robo 10`,
+    username: `robo-10`,
+    email: `robo10@robocorp.bot`
+  },
+  {
+    id: 11,
+    name: `Rando Robo 11`,
+    username: `robo-11`,
+    email: `robo11@robocorp.bot`
+  },
+  {
+    id: 12,
+    name: `Rando Robo 12`,
+    username: `robo-12`,
+    email: `robo12@robocorp.bot`
+  }
+]
